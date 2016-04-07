@@ -1,0 +1,1 @@
+{"arsenal":"yes","tottenham":"no"}
