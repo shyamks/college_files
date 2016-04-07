@@ -1,1 +1,1 @@
-# college_files
+# Random pieces of code written during my college time
